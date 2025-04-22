@@ -1,0 +1,59 @@
+body {
+    margin: 0;
+    font-family: Arial, sans-serif;
+    background-color: #f4f4f4; /* Fondo general */
+}
+
+.section {
+    text-align: center;
+    padding: 50px;
+    color: white;
+}
+
+header {
+    background-color: #808080; /* Verde para el encabezado */
+    background-image: url('../IMG/newera.png');
+   
+}
+
+main {
+    background-color: #000080 ; /* Azul para el contenido principal */
+}
+
+footer {
+    background-color: black; /* Naranja para el pie de página */
+}
+
+.gallery {
+    display: flex;
+    justify-content: center;
+    gap: 20px;
+    margin: 20px 0;
+}
+
+.item {
+    text-align: center;
+}
+
+.item img {
+    width: 150px;
+    height: auto;
+    border-radius: 10px;
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+}
+
+.button {
+    display: inline-block;
+    margin-top: 20px;
+    padding: 10px 20px;
+    background-color: #FF5722;
+    color: white;
+    text-decoration: none;
+    border-radius: 5px;
+    font-weight: bold;
+    transition: background-color 0.3s;
+}
+
+.button:hover {
+    background-color: #E64A19;
+}
