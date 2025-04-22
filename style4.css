@@ -11,7 +11,7 @@ body {
 }
 
 header {
-    background-image: url(../IMG/fonditoo.jpg);
+    background-image: url('fonditoo.jpg');
      /* Verde para el encabezado */
     color: white;
     padding: 60px 20px;
