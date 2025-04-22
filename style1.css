@@ -5,7 +5,7 @@
 }
 
 body {
-    background-image: url('../IMG/fondo.jpg');
+    background-image: url('fondo.jpg');
     background-repeat: no-repeat;
     background-position: center;
     background-size: cover;
@@ -70,7 +70,7 @@ nav ul li:hover {
     }
 
     .boton_menu {
-        background-image: url('../IMG/iconoo.png');
+        background-image: url('iconoo.png');
         background-color: #2E4172;
         background-repeat: no-repeat;
         height: 30px;
@@ -95,7 +95,7 @@ nav ul li:hover {
 
     /* con esta clase cambio las barras por una x */
     .colocar_x {
-        background-image: url('../IMG/xx.png');
+        background-image: url('xx.png');
         background-color: #2E4172;
         background-repeat: no-repeat;
         height: 30px;
