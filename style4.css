@@ -1,7 +1,7 @@
 body {
     margin: 0;
     font-family: 'Arial', sans-serif;
-    background-color: #f9f9f9; /* Fondo neutro */
+    background-color: #f9f9f9; 
     color: #333;
 }
 
@@ -12,7 +12,6 @@ body {
 
 header {
     background-image: url('fonditoo.jpg');
-     /* Verde para el encabezado */
     color: white;
     padding: 60px 20px;
     box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
@@ -47,7 +46,7 @@ main {
 
 .gallery {
     display: grid;
-    grid-template-columns: repeat(4, 1fr); /* 4 columnas */
+    grid-template-columns: repeat(4, 1fr);
     gap: 20px;
     justify-items: center;
 }
@@ -60,7 +59,7 @@ main {
 }
 
 .item img:hover {
-    transform: scale(1.05); /* Efecto de zoom al pasar el cursor */
+    transform: scale(1.05); 
 }
 .gorraa{
     font-family: 'Times New Roman', Times, serif;
