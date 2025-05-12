@@ -1,7 +1,7 @@
 body {
     margin: 0;
     font-family: Arial, sans-serif;
-    background-color: #f4f4f4; /* Fondo general */
+    background-color: #f4f4f4; 
 }
 
 .section {
@@ -11,17 +11,17 @@ body {
 }
 
 header {
-    background-color: #808080; /* Verde para el encabezado */
+    background-color: #808080; 
     background-image: url('newera.png');
    
 }
 
 main {
-    background-color: #000080 ; /* Azul para el contenido principal */
+    background-color: #000080 ; 
 }
 
 footer {
-    background-color: black; /* Naranja para el pie de página */
+    background-color: black; 
 }
 
 .gallery {
